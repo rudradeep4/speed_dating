@@ -1,0 +1,6 @@
+SpeakerDyad,ListenerDyad,SpeakerExtract,ListenerExtract,SpeakerID,ListenerID,VideoPath,AudioPath,Condition,Modality,SpeakerSex,Duration,DisplayedDyad
+1,1,5,5,F1,M1,./stim/processed_extracts/practice/1_5_vva.mov,./stim/processed_extracts/practice/1_5_audio.wav,TRUE,vva,F,12,1
+20,20,1,1,F6,M5,./stim/processed_extracts/practice/20_1_va.mov,./stim/processed_extracts/practice/20_1_audio.wav,TRUE,va,F,5,20
+27,27,5,5,M7,F7,./stim/processed_extracts/practice/27_5_va.mov,./stim/processed_extracts/practice/27_5_audio.wav,TRUE,va,M,18,27
+40,40,9,9,M10,F10,./stim/processed_extracts/practice/40_9_vv.mov,./stim/processed_extracts/practice/40_9_audio.wav,TRUE,vv,M,8,40
+43,43,5,5,M11,F10,./stim/processed_extracts/practice/43_5_vva.mov,./stim/processed_extracts/practice/43_5_audio.wav,TRUE,vva,M,3,43

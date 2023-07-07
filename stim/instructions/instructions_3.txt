@@ -1,0 +1,3 @@
+﻿Pour chaque extrait video, vous donnerez vos réponses avec le clavier: si vous pensez que la conversation est vraie (cad que les 2 personnes que vous voyez dans un extrait ont vraiment eu cette interaction ensemble), appuyez sur la touche [G]; si au contraire vous pensez que la conversation est fausse (cad que les 2 personnes que vous voyez dans un extrait ont été en réalité enregistrées alors qu'elles conversaient avec d'autres personnes), appuyez sur la touche [H]. Vous ne pourrez regarder chaque extrait qu'une seule fois avant de répondre. Après chaque réponse, nous vous demanderons aussi d'évaluer à quel point vous êtes sûr.e.s de votre choix, avec une échelle de 1 à 4 allant de "pas du tout sûr" à "complétement certain".
+
+(Appuyez sur une touche pour continuer)

@@ -1,0 +1,5 @@
+﻿Votre tâche, dans cette expérience, est d'essayer de repérer quelles conversations sont vraies (cad que les 2 personnes que vous voyez dans un extrait ont vraiment eu cette interaction ensemble) et quelles conversations sont fausses (cad que les 2 personnes que vous voyez dans un extrait ont été en réalité enregistrées alors qu'elles conversaient avec d'autres personnes). Il y a environ 50% de conversations vraies et 50% de conversations fausses. 
+
+Pour répondre, ne vous fiez pas à la combinaison de personnes que vous voyez à l'écran: au cours de l'expérience, vous verrez plusieurs extraits impliquant les mêmes personnes (par ex. A et D dans l'exemple ci-dessus). Pour chaque paire de personne, il y aura un certain nombre de vidéos "vraies" (ex. montrant un passage où A et D se sont vraiment parlés) et un certain nombre de vidéos "fausses" (ex. montrant un passage où A et D ne sont pas vraiment parlés).
+
+(Appuyez sur une touche pour continuer)
