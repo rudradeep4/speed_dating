@@ -1,0 +1,7 @@
+{
+    "git.enabled": false,
+    "git.enableStatusBarSync": false,
+    "git.detectSubmodules": false,
+    "git.decorations.enabled": false,
+    "git.confirmSync": true
+}

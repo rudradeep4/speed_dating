@@ -1,0 +1,6 @@
+Date,Subject,Age,Sex,TrialNumber,BlockNumber,Block,VideoPath,AudioPath,SpeakerID,ListenerID,SpeakerDyad,ListenerDyad,SpeakerExtract,ListenerExtract,Condition,SpeakerSex,Duration,CorrectResp,Resp,LikertResp
+2023-10-05 12:18:27.326396,8,m,22,1,0,practice,./stim/processed_extracts/practice/27_5_va.mov,./stim/processed_extracts/practice/27_5_audio.wav,M7,F7,27,27,5,5,True,M,18,g,h,3
+2023-10-05 12:18:27.326396,8,m,22,2,0,practice,./stim/processed_extracts/practice/20_1_va.mov,./stim/processed_extracts/practice/20_1_audio.wav,F6,M5,20,20,1,1,True,F,5,g,g,2
+2023-10-05 12:18:27.326396,8,m,22,3,0,practice,./stim/processed_extracts/practice/40_9_vv.mov,./stim/processed_extracts/practice/40_9_audio.wav,M10,F10,40,40,9,9,True,M,8,g,h,1
+2023-10-05 12:18:27.326396,8,m,22,4,0,practice,./stim/processed_extracts/practice/1_5_vva.mov,./stim/processed_extracts/practice/1_5_audio.wav,F1,M1,1,1,5,5,True,F,12,g,g,3
+2023-10-05 12:18:27.326396,8,m,22,5,0,practice,./stim/processed_extracts/practice/43_5_vva.mov,./stim/processed_extracts/practice/43_5_audio.wav,M11,F10,43,43,5,5,True,M,3,g,g,2
