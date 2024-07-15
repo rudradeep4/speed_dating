@@ -6,3 +6,7 @@ stim/all_trials_forTesting.csv
 stim/all_trials.csv
 
 trf_imgs/
+
+landmark_files/
+
+predictions.pkl
