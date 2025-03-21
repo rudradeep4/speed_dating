@@ -1,0 +1,12 @@
+subj,trial,block,date,stim,stim_order,response,rt,param_index,video_path,condition,duration,dyad,mouth_fit,eye_fit,genuineness,category,block,audio_path
+5,0,0,2024-07-29T15:01:32.098Z,19_17_2_25_2_eyes.mov,0,yes,5230,0,./stimuli/eyes/19_17_2_25_2.mov,fake,10,19,-0.3062581015621111,0.3018231666755847,0.25,cr,eyes,./stimuli/audio/19/17_2_25_2_audio.wav
+5,1,0,2024-07-29T15:01:32.098Z,10_3_6_eyes.mov,0,yes,11130,0,./stimuli/eyes/10_3_6.mov,fake,6,10,-0.3597339671539078,0.153488504955574,0.3333333333333333,cr,eyes,./stimuli/audio/10/3_6_audio.wav
+5,2,0,2024-07-29T15:01:32.098Z,57_1_eyes.mov,0,yes,1813,0,./stimuli/eyes/57_1.mov,true,11,57,0.1901594820910893,0.18849068799535393,1.0,hit,eyes,./stimuli/audio/57/1_audio.wav
+5,3,0,2024-07-29T15:01:32.098Z,3_1_6_eyes.mov,0,no,3386,0,./stimuli/eyes/3_1_6.mov,fake,7,3,-0.4642603847610854,0.43942074913705,0.25,cr,eyes,./stimuli/audio/3/1_6_audio.wav
+5,4,0,2024-07-29T15:04:04.857Z,22_19_3_23_2_eyes.mov,0,no,2587,0,./stimuli/eyes/22_19_3_23_2.mov,fake,11,22,0.08484422710888113,-0.043331687022501224,0.6,fa,eyes,./stimuli/audio/22/19_3_23_2_audio.wav
+5,5,0,2024-07-29T15:04:04.857Z,2_2_3_eyes.mov,0,yes,3407,0,./stimuli/eyes/2_2_3.mov,fake,8,2,0.129174971279355,-0.050235536081676954,0.5714285714285714,fa,eyes,./stimuli/audio/2/2_3_audio.wav
+5,6,0,2024-07-29T15:04:04.857Z,11_12_4_15_4_eyes.mov,0,yes,1237,0,./stimuli/eyes/11_12_4_15_4.mov,fake,11,11,-0.44589938150044073,0.3329780195541019,0.2857142857142857,cr,eyes,./stimuli/audio/11/12_4_15_4_audio.wav
+5,7,0,2024-07-29T15:04:04.857Z,36_3_eyes.mov,0,yes,4710,0,./stimuli/eyes/36_3.mov,true,9,36,0.329614763427785,-0.023430414005525233,0.16666666666666666,miss,eyes,./stimuli/audio/36/3_audio.wav
+5,8,0,2024-07-29T15:04:04.857Z,55_4_7_eyes.mov,0,no,2759,0,./stimuli/eyes/55_4_7.mov,fake,12,55,0.07584842753372179,-0.17660186780226106,0.625,fa,eyes,./stimuli/audio/55/4_7_audio.wav
+5,9,0,2024-07-29T15:04:04.857Z,14_2_eyes.mov,0,yes,1315,0,./stimuli/eyes/14_2.mov,true,7,14,0.4572036208800272,-0.1681404751306418,0.4,miss,eyes,./stimuli/audio/14/2_audio.wav
+5,10,0,2024-07-29T15:04:04.857Z,14_1_5_eyes.mov,0,yes,2457,0,./stimuli/eyes/14_1_5.mov,fake,8,14,0.425744218880069,-0.2822823059139167,0.6666666666666666,fa,eyes,./stimuli/audio/14/1_5_audio.wav

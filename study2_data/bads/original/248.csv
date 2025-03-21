@@ -1,0 +1,3 @@
+subj,trial,block,date,stim,stim_order,response,rt,param_index,video_path,condition,duration,dyad,mouth_fit,eye_fit,genuineness,category,block,audio_path
+248,0,0,2024-07-30T09:08:51.297Z,14_1_5_original.mov,0,yes,40144,0,./stimuli/original/14_1_5.mov,fake,8,14,0.425744218880069,-0.2822823059139167,0.6666666666666666,fa,original,./stimuli/audio/14/1_5_audio.wav
+248,1,0,2024-07-30T09:08:51.297Z,31_29_3_32_4_original.mov,0,no,28421,0,./stimuli/original/31_29_3_32_4.mov,fake,11,31,0.09959067922407874,-0.018974100942408284,0.5714285714285714,fa,original,./stimuli/audio/31/29_3_32_4_audio.wav

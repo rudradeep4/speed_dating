@@ -1,0 +1,12 @@
+subj,trial,block,date,stim,stim_order,response,rt,param_index,video_path,condition,duration,dyad,mouth_fit,eye_fit,genuineness,category,block,audio_path
+88,0,0,2024-07-29T18:23:45.816Z,5_1_mouth.mov,0,no,4843,0,./stimuli/mouth/5_1.mov,true,19,5,0.27128235194238964,0.3313292072657651,1.0,hit,mouth,./stimuli/audio/5/1_audio.wav
+88,1,0,2024-07-29T18:23:45.816Z,31_7_mouth.mov,0,yes,4205,0,./stimuli/mouth/31_7.mov,true,10,31,0.2819450977061281,0.42806784940014414,1.0,hit,mouth,./stimuli/audio/31/7_audio.wav
+88,2,0,2024-07-29T18:23:45.816Z,36_3_mouth.mov,0,yes,16940,0,./stimuli/mouth/36_3.mov,true,9,36,0.329614763427785,-0.023430414005525233,0.16666666666666666,miss,mouth,./stimuli/audio/36/3_audio.wav
+88,3,0,2024-07-29T18:23:45.816Z,43_4_mouth.mov,0,yes,21766,0,./stimuli/mouth/43_4.mov,true,8,43,0.3318926959502144,0.5459867646576265,0.875,hit,mouth,./stimuli/audio/43/4_audio.wav
+88,4,0,2024-07-29T18:23:45.816Z,46_2_mouth.mov,0,no,3018,0,./stimuli/mouth/46_2.mov,true,8,46,0.22314361077696993,-0.37187593532122043,0.4,miss,mouth,./stimuli/audio/46/2_audio.wav
+88,5,0,2024-07-29T18:23:45.816Z,2_2_3_mouth.mov,0,yes,19415,0,./stimuli/mouth/2_2_3.mov,fake,8,2,0.129174971279355,-0.050235536081676954,0.5714285714285714,fa,mouth,./stimuli/audio/2/2_3_audio.wav
+88,6,0,2024-07-29T18:23:45.816Z,31_29_3_32_4_mouth.mov,0,yes,2455,0,./stimuli/mouth/31_29_3_32_4.mov,fake,11,31,0.09959067922407874,-0.018974100942408284,0.5714285714285714,fa,mouth,./stimuli/audio/31/29_3_32_4_audio.wav
+88,7,0,2024-07-29T18:23:45.816Z,45_3_mouth.mov,0,yes,1671,0,./stimuli/mouth/45_3.mov,true,7,45,0.16889004277659403,0.038899221686994556,0.125,miss,mouth,./stimuli/audio/45/3_audio.wav
+88,8,0,2024-07-29T18:23:45.816Z,57_3_mouth.mov,0,no,2968,0,./stimuli/mouth/57_3.mov,true,13,57,0.4051063890989022,0.22300043342787418,0.8333333333333334,hit,mouth,./stimuli/audio/57/3_audio.wav
+88,9,0,2024-07-29T18:23:45.816Z,29_1_mouth.mov,0,yes,2118,0,./stimuli/mouth/29_1.mov,true,6,29,0.43759910538650976,0.7861077054117834,0.8,hit,mouth,./stimuli/audio/29/1_audio.wav
+88,10,0,2024-07-29T18:23:45.816Z,54_2_6_mouth.mov,0,yes,1348,0,./stimuli/mouth/54_2_6.mov,fake,9,54,-0.29618043652047055,0.3949913972066293,0.25,cr,mouth,./stimuli/audio/54/2_6_audio.wav

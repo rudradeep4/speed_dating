@@ -1,0 +1,2 @@
+subj,trial,block,date,stim,stim_order,response,rt,param_index,video_path,condition,duration,dyad,mouth_fit,eye_fit,genuineness,category,block,audio_path
+77,0,0,2024-07-29T18:03:18.508Z,49_52_1_58_4_mouth.mov,0,yes,15370,0,./stimuli/mouth/49_52_1_58_4.mov,fake,7,49,0.2377582648191723,-0.22737814057092437,0.6,fa,mouth,./stimuli/audio/49/52_1_58_4_audio.wav

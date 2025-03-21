@@ -1,0 +1,15 @@
+subj,trial,block,date,stim,stim_order,response,rt,param_index,video_path,condition,duration,dyad,mouth_fit,eye_fit,genuineness,category,block,audio_path
+249,0,0,2024-07-30T09:12:05.221Z,14_2_original.mov,0,no,10076,0,./stimuli/original/14_2.mov,true,7,14,0.4572036208800272,-0.1681404751306418,0.4,miss,original,./stimuli/audio/14/2_audio.wav
+249,1,0,2024-07-30T09:12:05.221Z,54_2_6_original.mov,0,no,6668,0,./stimuli/original/54_2_6.mov,fake,9,54,-0.29618043652047055,0.3949913972066293,0.25,cr,original,./stimuli/audio/54/2_6_audio.wav
+249,2,0,2024-07-30T09:12:05.221Z,5_1_original.mov,0,yes,2393,0,./stimuli/original/5_1.mov,true,19,5,0.27128235194238964,0.3313292072657651,1.0,hit,original,./stimuli/audio/5/1_audio.wav
+249,3,0,2024-07-30T09:12:05.221Z,58_5_original.mov,0,yes,6466,0,./stimuli/original/58_5.mov,true,10,58,0.3512393589458156,-0.10630635603297785,0.25,miss,original,./stimuli/audio/58/5_audio.wav
+249,4,0,2024-07-30T09:12:05.221Z,43_4_original.mov,0,yes,5579,0,./stimuli/original/43_4.mov,true,8,43,0.3318926959502144,0.5459867646576265,0.875,hit,original,./stimuli/audio/43/4_audio.wav
+249,5,0,2024-07-30T09:12:05.221Z,56_2_3_original.mov,0,yes,3715,0,./stimuli/original/56_2_3.mov,fake,11,56,0.5087935566381222,-0.06663988578182624,0.75,fa,original,./stimuli/audio/56/2_3_audio.wav
+249,6,0,2024-07-30T09:12:05.221Z,8_1_original.mov,0,no,2507,0,./stimuli/original/8_1.mov,true,7,8,0.43411028057714246,-0.10019960292337136,0.42857142857142855,miss,original,./stimuli/audio/8/1_audio.wav
+249,7,0,2024-07-30T09:12:05.221Z,31_7_original.mov,0,yes,3058,0,./stimuli/original/31_7.mov,true,10,31,0.2819450977061281,0.42806784940014414,1.0,hit,original,./stimuli/audio/31/7_audio.wav
+249,8,0,2024-07-30T09:12:05.221Z,57_3_original.mov,0,yes,3012,0,./stimuli/original/57_3.mov,true,13,57,0.4051063890989022,0.22300043342787418,0.8333333333333334,hit,original,./stimuli/audio/57/3_audio.wav
+249,9,0,2024-07-30T09:12:05.221Z,47_3_original.mov,0,no,3401,0,./stimuli/original/47_3.mov,true,9,47,0.20621953119091913,-0.16083945449198914,0.2,miss,original,./stimuli/audio/47/3_audio.wav
+249,10,0,2024-07-30T09:12:05.221Z,45_46_1_47_1_original.mov,0,yes,3146,0,./stimuli/original/45_46_1_47_1.mov,fake,10,45,-0.26192066238859296,0.2611161119528825,0.0,cr,original,./stimuli/audio/45/46_1_47_1_audio.wav
+249,11,0,2024-07-30T09:12:05.221Z,11_12_4_15_4_original.mov,0,no,2098,0,./stimuli/original/11_12_4_15_4.mov,fake,11,11,-0.44589938150044073,0.3329780195541019,0.2857142857142857,cr,original,./stimuli/audio/11/12_4_15_4_audio.wav
+249,12,0,2024-07-30T09:12:05.221Z,4_4_original.mov,0,yes,4988,0,./stimuli/original/4_4.mov,true,7,4,0.27149820146759923,0.2521458194443752,0.7142857142857143,hit,original,./stimuli/audio/4/4_audio.wav
+249,13,0,2024-07-30T09:12:05.221Z,46_2_original.mov,0,no,3638,0,./stimuli/original/46_2.mov,true,8,46,0.22314361077696993,-0.37187593532122043,0.4,miss,original,./stimuli/audio/46/2_audio.wav
